@@ -15,22 +15,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
-			"settings":
-			{
-				"buffer_size": 19237,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Http/routes.php",
-			"settings":
-			{
-				"buffer_size": 1111,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -72,6 +56,12 @@
 	},
 	"file_history":
 	[
+		"/D/Dropbox/www/laravel/dev/config/mail.php",
+		"/D/Dropbox/www/laravel/dev/.env",
+		"/D/Dropbox/www/laravel/laravelx2/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php",
+		"/D/Dropbox/www/laravel/dev/resources/views/layouts/app.blade.php",
+		"/D/Dropbox/www/laravel/dev/resources/views/partials/navigation.blade.php",
+		"/D/Dropbox/www/laravel/dev/app/Http/routes.php",
 		"/D/Dropbox/www/laravel/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
 		"/D/Dropbox/www/laravel/dev/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
 		"/D/Dropbox/www/laravel/dev/vendor/symfony/console/Tests/Helper/HelperSetTest.php",
@@ -81,12 +71,9 @@
 		"/D/Dropbox/www/laravel/dev/vendor/symfony/console/Helper/HelperInterface.php",
 		"/D/Dropbox/www/laravel/dev/vendor/symfony/console/Helper/Helper.php",
 		"/D/Dropbox/www/laravel/dev/app/Http/Controllers/HomeController.php",
-		"/D/Dropbox/www/laravel/dev/app/Http/routes.php",
 		"/D/Dropbox/www/laravel/dev/app/Http/Controllers/ApiController.php",
-		"/D/Dropbox/www/laravel/dev/.env",
 		"/D/Dropbox/www/laravel/dev/resources/views/app.blade.php",
 		"/D/Dropbox/www/laravel/dev/app/Http/Controllers/WelcomeController.php",
-		"/D/Dropbox/www/laravel/dev/resources/views/partials/navigation.blade.php",
 		"/D/Dropbox/www/laravel/laravel50/resources/views/welcome.blade.php",
 		"/D/Dropbox/www/laravel/tst52/.env",
 		"/D/Dropbox/www/laravel/tst52/config/mail.php",
@@ -196,10 +183,7 @@
 		"/D/Dropbox/www/laravel/laravel3/app/Http/Controllers/HomeController.php",
 		"/D/Dropbox/www/traian4/view/admins/test.php",
 		"/D/Dropbox/diverse/setup/laravel",
-		"/D/Dropbox/www/traian4/view/test/captcha.php",
-		"/D/Dropbox/diverse/setup/setup_lamp",
-		"/D/Dropbox/www/laravel/laravel1/resources/views/albums/show.blade.php",
-		"/D/Dropbox/www/laravel/laravel1/resources/views/photos/show.blade.php"
+		"/D/Dropbox/www/traian4/view/test/captcha.php"
 	],
 	"find":
 	{
@@ -258,65 +242,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
-					"settings":
-					{
-						"buffer_size": 19237,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								10847,
-								10853
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 14273.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app/Http/routes.php",
-					"settings":
-					{
-						"buffer_size": 1111,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								874,
-								874
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 864.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],

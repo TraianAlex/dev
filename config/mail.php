@@ -1,7 +1,13 @@
 <?php
 
 return [
-
+   /*
+    * used for testing purpose. comment this on production
+    */
+    // 'to' => [
+    //     'address' => env('TEST_MAIL'),
+    //     'name' => 'Dev Example'
+    // ],
     /*
     |--------------------------------------------------------------------------
     | Mail Driver
@@ -54,7 +60,7 @@ return [
     |
     */
 
-    'from' => ['address' => null, 'name' => null],
+    'from' => ['address' => 'noreply@gmail.com', 'name' => 'Embassy'],
 
     /*
     |--------------------------------------------------------------------------
