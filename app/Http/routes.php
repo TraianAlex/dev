@@ -19,6 +19,7 @@ Route::group(['middleware' => 'web'], function () {
     resource('api', 'ApiController');
 
     Route::get('/home', 'HomeController@index');
+    Route::get('/list', 'HomeController@getList');
 
     Route::get('/', function () {
 	    return view('welcome');
