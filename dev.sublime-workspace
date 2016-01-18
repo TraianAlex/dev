@@ -15,30 +15,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "resources/views/layouts/app.blade.php",
-			"settings":
-			{
-				"buffer_size": 1465,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/home.blade.php",
-			"settings":
-			{
-				"buffer_size": 424,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/assets/app/controllers/devCtrl.js",
-			"settings":
-			{
-				"buffer_size": 224,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -80,8 +56,14 @@
 	},
 	"file_history":
 	[
-		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Users/victor92/OneDrive/Angular/4.Web Development with AngularJS and Bootstrap [Video]/Code_Bundle_Complete/script.js",
+		"/C/Users/victor92/OneDrive/Angular/4.Web Development with AngularJS and Bootstrap [Video]/Code_Bundle_Complete/index.html",
+		"/C/Users/victor92/OneDrive/Angular/4.Web Development with AngularJS and Bootstrap [Video]/Code Bundle Complete/script.js",
+		"/D/Dropbox/www/laravel/dev/resources/views/layouts/app.blade.php",
+		"/D/Dropbox/www/laravel/dev/resources/views/home.blade.php",
+		"/D/Dropbox/www/laravel/dev/public/assets/app/controllers/devCtrl.js",
 		"/C/xampp/php/php.ini",
+		"/C/xampp/apache/conf/httpd.conf",
 		"/D/Dropbox/www/laravel/dev/public/assets/app/app.js",
 		"/C/Users/victor92/OneDrive/Angular/AngularJS Web Application Development Blueprints/Chapter02/5617OS_02_code/5617OS_02_code/my-project/scripts.js",
 		"/C/Users/victor92/OneDrive/Angular/AngularJS Web Application Development Blueprints/Chapter02/5617OS_02_code/5617OS_02_code/my-project/script2.js",
@@ -90,7 +72,6 @@
 		"/C/Users/victor92/OneDrive/Angular/1.codeschool/app.js",
 		"/C/Users/victor92/OneDrive/Angular/quick-start-angular-udemy/Exercise Files/03_10/app.js",
 		"/D/Dropbox/www/laravel/dev/public/assets/js/angular-route.min.js",
-		"/D/Dropbox/www/laravel/dev/resources/views/home.blade.php",
 		"/D/Dropbox/www/laravel/dev/storage/logs/laravel.log",
 		"/D/Dropbox/www/laravel/dev/.env",
 		"/D/Dropbox/www/laravel/dev/app/Http/routes.php",
@@ -98,7 +79,6 @@
 		"/D/Dropbox/www/laravel/dev/resources/views/partials/navigation.blade.php",
 		"/D/Dropbox/www/laravel/dev/config/mail.php",
 		"/D/Dropbox/www/laravel/laravelx2/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php",
-		"/D/Dropbox/www/laravel/dev/resources/views/layouts/app.blade.php",
 		"/D/Dropbox/www/laravel/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
 		"/D/Dropbox/www/laravel/dev/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
 		"/D/Dropbox/www/laravel/dev/vendor/symfony/console/Tests/Helper/HelperSetTest.php",
@@ -203,11 +183,7 @@
 		"/D/Dropbox/www/laravel/laravelx2/laravelx2.sublime-project",
 		"/D/Dropbox/www/laravel/laravelx1/config/database.php",
 		"/D/Dropbox/www/laravel/laravelx2/app/User.php",
-		"/D/Dropbox/www/laravel/laravelx2/app/Tweet.php",
-		"/D/Dropbox/www/laravel/laravelx2/app/Tag.php",
-		"/D/Dropbox/www/laravel/laravelx2/app/Http/Controllers/HomeController.php",
-		"/D/Dropbox/www/laravel/laravelx2/app/Http/Controllers/TweetController.php",
-		"/D/Dropbox/www/laravel/laravelx1/app/Repositories/TestRepository.php"
+		"/D/Dropbox/www/laravel/laravelx2/app/Tweet.php"
 	],
 	"find":
 	{
@@ -266,97 +242,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "resources/views/layouts/app.blade.php",
-					"settings":
-					{
-						"buffer_size": 1465,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1034,
-								1034
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
-							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 864.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "resources/views/home.blade.php",
-					"settings":
-					{
-						"buffer_size": 424,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								379,
-								379
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
-							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "public/assets/app/controllers/devCtrl.js",
-					"settings":
-					{
-						"buffer_size": 224,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								65,
-								65
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
