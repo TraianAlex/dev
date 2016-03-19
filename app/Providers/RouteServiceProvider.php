@@ -27,6 +27,10 @@ class RouteServiceProvider extends ServiceProvider
         //
 
         parent::boot($router);
+        //'user' the same like {user}
+        \Route::bind('user', function($username){
+            return \App\User::where('username', $username)->firstOrFail();
+        });
     }
 
     /**

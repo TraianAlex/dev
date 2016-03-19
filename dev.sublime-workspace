@@ -15,11 +15,22 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "Package Control Messages\n========================\n\nBootstrap 3 Snippets\n--------------------\n\n  ============================================================\n  Bootstrap 3 Snippets - Has been updated !! -> v1.1.7\n  ============================================================\n              Bootstrap v3.3.6 has been released !!\n  ============================================================\n  Follow me on Twitter: @JasonMortonNZ\n  ------------------------------------------------------------\n  \n  New Features\n  ------------------------------------------------------------\n  - FIX FOR remaining '<' after autocomplete:\n  	* Update your \"auto_complete_triggers\" setting to this:\n  	* \"auto_complete_triggers\": [{\"selector\": \"text.html\", \"characters\": \"<\"},{\"selector\": \"text.html\", \"characters\": \"bs3\"}]\n  - Updated CDN references to Bootstrap v3.3.6\n  - OUT NOW     - A PHPStorm plugin with all the same snippets\n  \n  \n  ============================================================\n  					!!! COMING SOON !!!\n  ============================================================\n  A \"Bootstrap 4\" sublime plugins snippet, using the same,\n  familiar snippet syntax you've been used to using \"bs4-\"\n  ============================================================\n  ------------------------------------------------------------\n  Documentation, examples & issue filing can be found here:\n  https://github.com/JasonMortonNZ/bs3-sublime-plugin\n",
+			"settings":
+			{
+				"buffer_size": 1430,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 490.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
@@ -39,7 +50,7 @@
 				"Snippet: html"
 			]
 		],
-		"width": 549.0
+		"width": 400.0
 	},
 	"console":
 	{
@@ -56,6 +67,12 @@
 	},
 	"file_history":
 	[
+		"/D/Dropbox/www/test/index1.php",
+		"/D/Dropbox/setup/git",
+		"/D/Dropbox/www/laravel/dev/vendor/hamcrest/hamcrest-php/tests/bootstrap.php",
+		"/D/Downloads/bash_profile",
+		"/D/Dropbox/www/a-2015/test.php",
+		"/C/Users/victor92/AppData/Roaming/Sublime Text 2/Packages/Additional PHP Snippets/php-getset.sublime-snippet",
 		"/C/Users/victor92/OneDrive/Angular/4.Web Development with AngularJS and Bootstrap [Video]/Code_Bundle_Complete/script.js",
 		"/C/Users/victor92/OneDrive/Angular/4.Web Development with AngularJS and Bootstrap [Video]/Code_Bundle_Complete/index.html",
 		"/C/Users/victor92/OneDrive/Angular/4.Web Development with AngularJS and Bootstrap [Video]/Code Bundle Complete/script.js",
@@ -177,13 +194,7 @@
 		"/D/Dropbox/www/laravel/laravel52/app/Providers/RouteServiceProvider.php",
 		"/D/Dropbox/www/laravel/laravel52/database/migrations/2014_10_12_000000_create_users_table.php",
 		"/D/Dropbox/www/laravel/laravel52/database/factories/ModelFactory.php",
-		"/D/Dropbox/www/laravel/laravel52/database/database.sqlite",
-		"/D/Dropbox/www/laravel/laravel52/config/database.php",
-		"/D/Dropbox/www/laravel/sparkapp/composer.json",
-		"/D/Dropbox/www/laravel/laravelx2/laravelx2.sublime-project",
-		"/D/Dropbox/www/laravel/laravelx1/config/database.php",
-		"/D/Dropbox/www/laravel/laravelx2/app/User.php",
-		"/D/Dropbox/www/laravel/laravelx2/app/Tweet.php"
+		"/D/Dropbox/www/laravel/laravel52/database/database.sqlite"
 	],
 	"find":
 	{
@@ -242,8 +253,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 1430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1430,
+								1430
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"tab_width": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
