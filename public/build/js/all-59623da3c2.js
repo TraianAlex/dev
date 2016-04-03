@@ -348,7 +348,7 @@ app.config(function ($routeProvider) {
     })
 });
 
-/*---------------------------------------------------------------------------*/
+/*---------------------- service -----------------------------------------------*/
 
 app.service('GroceryService', function($http){
     
@@ -444,7 +444,7 @@ app.service('GroceryService', function($http){
     return groceryService;
 });
 
-/*-----------------------------------------------------------------------------*/
+/*------------------- controllers -----------------------------------------------*/
 
 app.controller('HomeController', ["$scope", 'GroceryService', function($scope, GroceryService){
     
@@ -480,7 +480,7 @@ app.controller('GroceryListItemController', ["$scope", "$routeParams", "$locatio
     //console.log($scope.groceryItems);
 }]);
 
-/*------------------------------------------------------------------------*/
+/*---------------- custom directives ---------------------------------------------*/
 
 app.directive("tbGroceryItem", function(){
     return{

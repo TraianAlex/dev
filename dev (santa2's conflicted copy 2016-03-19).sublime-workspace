@@ -15,22 +15,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "gulpfile.js",
-			"settings":
-			{
-				"buffer_size": 770,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "resources/views/layouts/app.blade.php",
-			"settings":
-			{
-				"buffer_size": 1816,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -72,10 +56,6 @@
 	},
 	"file_history":
 	[
-		"/Users/victor/Dropbox/www/laravel/dev/resources/assets/sass/app.scss",
-		"/Users/victor/Dropbox/www/laravel/dev/app/http/controllers/HomeController.php",
-		"/Users/victor/Dropbox/www/laravel/dev/resources/assets/js/app/js/app1.js",
-		"/Users/victor/Dropbox/www/laravel/dev/storage/logs/laravel.log",
 		"/D/Dropbox/www/test/index1.php",
 		"/D/Dropbox/setup/git",
 		"/D/Dropbox/www/laravel/dev/vendor/hamcrest/hamcrest-php/tests/bootstrap.php",
@@ -199,7 +179,11 @@
 		"/D/Dropbox/www/laravel/laravel4-test/laravel4-test.sublime-project",
 		"/D/Dropbox/www/laravel/laravel2/app/Http/Controllers/PortfolioController.php",
 		"/D/Dropbox/www/laravel/laravel4-test/laravel4.sublime-project",
-		"/D/Dropbox/www/laravel/laravel52/app/Http/routes.php"
+		"/D/Dropbox/www/laravel/laravel52/app/Http/routes.php",
+		"/D/Dropbox/www/laravel/laravel52/app/Providers/RouteServiceProvider.php",
+		"/D/Dropbox/www/laravel/laravel52/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/Dropbox/www/laravel/laravel52/database/factories/ModelFactory.php",
+		"/D/Dropbox/www/laravel/laravel52/database/database.sqlite"
 	],
 	"find":
 	{
@@ -260,62 +244,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "gulpfile.js",
-					"settings":
-					{
-						"buffer_size": 770,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								750,
-								750
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "resources/views/layouts/app.blade.php",
-					"settings":
-					{
-						"buffer_size": 1816,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								593,
-								593
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -394,7 +322,7 @@
 		[
 			[
 				"",
-				"/Users/victor/Dropbox/www/laravel/myshop/myshop.sublime-project"
+				"/D/Dropbox/www/laravel/laravel5/laravel5.sublime-project"
 			]
 		],
 		"width": 475.0
