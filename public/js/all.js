@@ -459,7 +459,7 @@ app.controller('HomeController', ["$scope", 'GroceryService', function($scope, G
         GroceryService.markCompleted(entry);
     }
     
-    $scope.$watch(function(){ return GroceryService.groceryItems }, function(groceryItems){
+    $scope.$watch(function(){return GroceryService.groceryItems }, function(groceryItems){
         $scope.groceryItems = groceryItems;
     })
 }]);

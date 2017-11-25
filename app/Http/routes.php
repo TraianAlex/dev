@@ -16,7 +16,7 @@ Route::group(['middleware' => 'web'], function () {
 
     Route::auth();
 
-    resource('api', 'ApiController');
+    Route::resource('api', 'ApiController');
 
     Route::get('/home', 'HomeController@index');
     Route::get('/list', 'HomeController@getList');
