@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
+use App\User;
 
 class HomeController extends Controller
 {
@@ -23,9 +24,9 @@ class HomeController extends Controller
      *
      * @return Response
      */
-    public function index()
+    public function index(User $user)
     {
-        return view('home.home');
+        return view('home.home', compact('user'));
     }
 
     public function getList()

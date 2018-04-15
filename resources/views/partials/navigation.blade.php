@@ -20,7 +20,7 @@
             <!-- Left Side Of Navbar -->
             <ul class="nav navbar-nav">
                 <li><a href="/">Home</a></li>
-                <li><a href="{{url('/list')}}">Quich List</a></li>
+                <li><a href="{{url('/')}}">Quich List</a></li>
             </ul>
 
             <!-- Right Side Of Navbar -->
